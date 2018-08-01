@@ -14,3 +14,11 @@ tabulations:
 bottom0up 
 tabulation makes table in beginning 
 avoids multipl elookups. saves funciton call overhead time 
+
+what is the difference btween HTTP and HTTPS?
+
+HTTPS is the secure messsage that con't be intercepted while HTTP is not secure. 
+
+Asynmetric key cryptography - one side has the key 
+
+symetric key cryptophy - both sides have the key 
