@@ -22,3 +22,17 @@ HTTPS is the secure messsage that con't be intercepted while HTTP is not secure.
 Asynmetric key cryptography - one side has the key 
 
 symetric key cryptophy - both sides have the key 
+
+what is the difference between event.target and event.currentTarget? 
+
+event.target is the most deeply nested element that caused the event. 
+
+event.currentTarget is the objects that's currently running he event handler. 
+
+How can you stop event bubbling?
+
+using event.stopPropagation()
+
+What does stopImmediatePropagation do?
+
+stops other events from triggering on an element if the element has multiple event listeners on it.
