@@ -1,0 +1,16 @@
+why is memoization helpful? 
+
+it stroes solutions to previous problems, preventing the computation of the same problem multiple times. It improves time complexity of a problem. 
+
+what is the difference btween memoization and tabulation? 
+
+memoization: 
+top down 
+memoization makes a table as its going
+sometimes more intuitive to write 
+sometimes avoids computing unneeded sub problems 
+
+tabulations: 
+bottom0up 
+tabulation makes table in beginning 
+avoids multipl elookups. saves funciton call overhead time 
